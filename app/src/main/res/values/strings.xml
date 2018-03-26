@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Youtube Copy</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="b_nev_trending">Trending</string>
+    <string name="b_nav_activity">Activity</string>
+    <string name="b_nav_subscriptions">Subscriptions</string>
+    <string name="b_nav_library">Library</string>
+    <string name="show_video">Show Video</string>
+    <string name="activity_top_name">Youtube</string>
+</resources>

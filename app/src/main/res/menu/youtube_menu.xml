@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/start_show"
+        android:icon="@drawable/ic_videocam_black_24dp"
+        app:showAsAction="always|withText"
+        android:title="@string/show_video"/>
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/ic_search_black_24dp"
+        app:showAsAction="always|withText"
+        android:title="@string/show_video"
+        />
+    <item
+        android:id="@+id/user_icon"
+        android:icon="@drawable/ic_insert_emoticon_black_24dp"
+        app:showAsAction="always|withText"
+        android:title="@string/show_video" />
+
+
+</menu>
